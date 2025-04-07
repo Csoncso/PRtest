@@ -1,1 +1,2 @@
-print("It works!")
+text = "It works!"
+print(text)
