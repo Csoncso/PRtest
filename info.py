@@ -1,4 +1,5 @@
 text = "Welcome here!"
 print(text)
-visitCounter = 0
-print(visitCounter)
+runCounter = 0
+print(runCounter)
+runCounter += 10
